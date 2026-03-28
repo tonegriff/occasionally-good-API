@@ -1,2 +1,2 @@
 # occasionally_good
-Retrieves and parses the latest official Met Office Shipping Forecast
+API for live Met Office Shipping Forecast retrieval
